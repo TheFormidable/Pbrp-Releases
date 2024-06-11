@@ -1,4 +1,4 @@
-![Poco x6 pro](https://github.com/TheFormidable/PBRP-duchamp/blob/12f779bf8837338879df35bdd670ae3000e441f4/xiaomi-poco-x6-pro-0-1.jpg)
+![Poco x6 pro](https://github.com/TheFormidable/Pbrp-Releases/blob/a6a84d0886624d319ee7181b734fc12daf9fccd4/xiaomi-poco-x6-pro-0-1.jpg)
 ============================================================
 PBRP Device configuration for POCO X6 PRO (duchamp)
 ============================================================
