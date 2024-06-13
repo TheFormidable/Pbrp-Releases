@@ -19,7 +19,8 @@ Release Date | Apr 30, 2024
 
 ## Features:
 
-- Almost all PBRP features are expected to be working on Eliterom, If you are on a different version of Hyperos maybe you need to go to the troubleshooting section 
+- Almost all PBRP features are expected to be working on decrypted roms like ELITE ROM (LITE, NEXTGEN)
+- ## If you are on a different version of Hyperos maybe you need to go to the troubleshooting section 
 
 
 ## Bugs 
