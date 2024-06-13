@@ -53,7 +53,7 @@ Release Date | Apr 30, 2024
 
 -SHIBU SHAJI @perilouspike for TWRP device tree's
 
--The_Formidable for Compitation
+-The_Formidable for Compilation
 
 # troubleshooting
 
