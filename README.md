@@ -60,7 +60,7 @@ Release Date | Apr 30, 2024
 # Fix for 0 Mb or Bootloop in PBRP Duchamp
 
 
-•Note : This will wipe/format your Data portion and your data will be reset.
+•Note : This will wipe/format your Data partition and your data will be reset.
 
 INSTRUCTIONS :
 
