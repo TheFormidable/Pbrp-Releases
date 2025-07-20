@@ -56,11 +56,12 @@ Release Date | Apr 30, 2024
 -The_Formidable for Compilation
 
 # troubleshooting
+In case you have installed the recovery on one of the unsupported ROMs, that is, any that has not been decrypted, you must apply the following solution to avoid getting stuck in a bootloop.
 
-# Fix for 0 Mb or Bootloop in PBRP Duchamp
+# Fix for Bootloop caused by decryption ( 0mb ) in PBRP Duchamp
 
 
-•Note : This will wipe/format your Data partition and your data will be reset.
+•Note : This will wipe/format your Data partition and your data will be reset, This will not solve your 0MB data problem, it will only prevent you from getting into a bootloop. It is also possible to change the vendor_boot original
 
 INSTRUCTIONS :
 
